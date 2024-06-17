@@ -1,5 +1,20 @@
 # Changelog
 
+## [12.17.0](https://github.com/LazyVim/LazyVim/compare/v12.16.0...v12.17.0) (2024-06-17)
+
+
+### Features
+
+* **copilot-chat:** ctrl-s now works in both normal and insert mode ([0fcadce](https://github.com/LazyVim/LazyVim/commit/0fcadced89f96f59a9f9cb0c85ee73990df1219f))
+* **php:** allow using intelephense instead of phpactor in php extras ([#3691](https://github.com/LazyVim/LazyVim/issues/3691)) ([ea3b5cc](https://github.com/LazyVim/LazyVim/commit/ea3b5cc2ab4ff7d70163ab66ea7fa0acc0e88566))
+* **treesitter-textobjects:** added ]a and [a to move between parameters ([18c7731](https://github.com/LazyVim/LazyVim/commit/18c7731281f7a9886ae98d9c034661fa85340fb2))
+
+
+### Bug Fixes
+
+* **cmp:** visible ([57ef349](https://github.com/LazyVim/LazyVim/commit/57ef349910ec40c7024f3b50a549aabefa1ebbf0))
+* **lsp:** dont highlight document words when cmp is visible ([0d57115](https://github.com/LazyVim/LazyVim/commit/0d57115f01b4094f68e426942e14892f204ec664))
+
 ## [12.16.0](https://github.com/LazyVim/LazyVim/compare/v12.15.0...v12.16.0) (2024-06-16)
 
 
